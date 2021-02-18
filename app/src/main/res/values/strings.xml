@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">appbiofix</string>
+    <string name="button_submit_text">SUBMIT</string>
+    <string name="nama_input_value">Nama</string>
+    <string name="biodata_text">BIODATA</string>
+    <string name="alamat_value">Alamat</string>
+    <string name="nik_value">NIK</string>
+    <string name="jenis_kelamin_true">Jenis Kelamin</string>
+</resources>
